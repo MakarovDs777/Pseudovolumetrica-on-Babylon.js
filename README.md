@@ -1,5 +1,5 @@
 # Pseudovolumetrica-on-Babylon.js
-
+За оригинал взято сообщение от -> [Pryme8](https://forum.babylonjs.com/t/examples-from-the-playground/3175/840), и на всякий случай [площадка бабилон](https://playground.babylonjs.com/#4GJH6Y#12).
 
 [Pseudovolumtrica (Version 0 - polylines based on the black contours of the image) | Babylon.js Playground](https://playground.babylonjs.com/#8PA0YH)
 
